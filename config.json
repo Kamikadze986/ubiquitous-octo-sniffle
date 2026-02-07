@@ -10,6 +10,26 @@
       {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
       {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
       {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+    ],
+    "de": [
+      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
+      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+    ],
+    "es": [
+      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
+      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+    ],
+    "fr": [
+      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
+      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+    ],
+    "uk": [
+      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
+      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
     ]
   }
 }
