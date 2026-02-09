@@ -33,7 +33,7 @@
     ]
   },
   "ads": {
-    "minDilay":2,
+    "adsCount":2,
     "adsTimeOut":7200000,
     "switchChannelCount":4
   }
