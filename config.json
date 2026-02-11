@@ -3,7 +3,6 @@
   "suggestedPlaylists": {
     "ru": [
       {"name": "Российские каналы", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
-      {"name": "Мир", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
       {"name": "Стабильные", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
     ],
     "en": [
