@@ -1,5 +1,5 @@
 {
-  "showSuggestedPlaylists": true,
+  "showSuggestedPlaylists": false,
   "suggestedPlaylists": {
     "ru": [
       {"name": "Российские каналы", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
