@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/10/4fun_TV_%282015-.n.v.%29.png/revision/latest?cb=20200327211041&path-prefix=ru",4fun.TV [Польша]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://i.imgur.com/2aiJfJ6.png",CHD-TV - Rock HD
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://i.imgur.com/2aiJfJ6.png",CHD-TV - RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Classic Music
+https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc3NDY5MTE2OSwiaHdpZCI6ImVkYzg4ZGRmMjhmNzYwNGM1ZTU5M2IzNDliYWFlOTIxMThjNWFhZDJmNmIzNTYwNDA3YzE1YjhkZGUwYWE4MzAiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDg2MzY5LCJzZXNzaW9uX2lkIjoiZjJkY2JjMzUxNTBjYjJiMjY4ZjYyNjFlYjdlODNjYjYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tdp0Kwye9knbMcLQ7aZUo4hw4I2SxlzE37pnmrRQAYc
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://i.imgur.com/ADuDlUf.png",Dance Hits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",Dance TV HD
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80s (& 90s)
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",Deep House HD
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png",Deluxe Dance HD [Германия]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png",Deluxe Music TV HD [Германия]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png",Deluxe Rap HD [Германия]
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Fon Music
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="tnt-music" tvg-name="ТНТ-Music HD",Fon Music HD
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",House Floor HD
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/685286c919ab8768f8a6f70eb5dc8171.webp",K-POP TV
+https://live.24hrkpop.com/hls/2/stream.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://i.imgur.com/fMEz4f6.png",MAFI2A HD
+https://woobl.ru/ok/ok/ok.php?id=9618057469515&p=index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://tvapp.live/images/logo-channel/magic-tv.png",Magic TV
+https://bss1.neterra.tv/magictv/stream_0.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",Mainstage HD
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ANCHSMedia-iptv/for_woobl_iptv-twink/main/tv_logos/site_playlist/MIXM-TV-(RU)_Logo.png",MIXM TV
+http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",MNML HD
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://woobl.ru/hls/img/oxygen_music.png",Oxygen Music HD [Венгрия]
+https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/RN2fLpP/m2o.png",Radio M2O TV HD [Италия]
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1734972064",Retro Plus [EN]
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",Tech House HD
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg",Techno HD
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",The Country Network HD [EN] [США]
+https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/BZYg4WZ/V2BEATTV.png",V2Beat TV [EN] [UK]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="vostok-tv",Восток ТВ
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=_KZnG9H0Z9zMPnRbTdVG8w&e=2067776620&scheme=https
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="muzsoyuz",МузСоюз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка Первого
+https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc3NDY5MTE2OSwiaHdpZCI6ImVkYzg4ZGRmMjhmNzYwNGM1ZTU5M2IzNDliYWFlOTIxMThjNWFhZDJmNmIzNTYwNDA3YzE1YjhkZGUwYWE4MzAiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDg2MzY5LCJzZXNzaW9uX2lkIjoiZjJkY2JjMzUxNTBjYjJiMjY4ZjYyNjFlYjdlODNjYjYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tdp0Kwye9knbMcLQ7aZUo4hw4I2SxlzE37pnmrRQAYc
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="o2tv",О! 2 ТВ
+https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc3NDY5MTE2OSwiaHdpZCI6ImVkYzg4ZGRmMjhmNzYwNGM1ZTU5M2IzNDliYWFlOTIxMThjNWFhZDJmNmIzNTYwNDA3YzE1YjhkZGUwYWE4MzAiLCJsYXN0X3JlcV9kYXRlIjoxNzc0MDg2MzY5LCJzZXNzaW9uX2lkIjoiZjJkY2JjMzUxNTBjYjJiMjY4ZjYyNjFlYjdlODNjYjYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.tdp0Kwye9knbMcLQ7aZUo4hw4I2SxlzE37pnmrRQAYc
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="ruskorabl" tvg-name="Плюс Минус 16",Плюс-Минус 16
+https://media.16pm.ru:8588/live/index.fmp4.m3u8
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="shanson-tv",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
