@@ -6,35 +6,30 @@
       {"name": "Мировой", "url": "https://iptv-org.github.io/iptv/index.m3u"}
     ],
     "en": [
-      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
-      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
-      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+      {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"}
     ],
     "de": [
-      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
-      {"name": "World", "url": "https://iptv-org.github.io/iptv/index.m3u"},
-      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+      {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
+      {"name": "World", "url": "https://iptv-org.github.io/iptv/index.m3u"}
     ],
     "es": [
-      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
-      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
-      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+      {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"}
     ],
     "fr": [
-      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
-      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
-      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+      {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"}
     ],
     "uk": [
-      {"name": "Russian channels", "url": "https://smolnp.github.io/IPTVru//IPTVru.m3u"},
-      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"},
-      {"name": "Stable", "url": "https://smolnp.github.io/IPTVru//IPTVstable.m3u8"}
+      {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
+      {"name": "World", "url": "https://smolnp.github.io/IPTVru//IPTVmir.m3u8"}
     ]
   },
   "ads": {
-    "adsCount":2,
-    "adsTimeOut":7200000,
-    "switchChannelCount":4
+    "adsCount": 2,
+    "adsTimeOut": 7200000,
+    "switchChannelCount": 4
   },
   "rustor": {
     "show": false,
