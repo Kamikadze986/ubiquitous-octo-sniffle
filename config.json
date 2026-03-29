@@ -36,5 +36,10 @@
     "adsCount":2,
     "adsTimeOut":7200000,
     "switchChannelCount":4
+  },
+  "rustor": {
+    "show": false,
+    "minDaysAfterFirstLaunch": 2,
+    "minLaunchCount": 2
   }
 }
