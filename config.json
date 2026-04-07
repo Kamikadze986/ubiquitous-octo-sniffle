@@ -31,5 +31,10 @@
     "show": false,
     "minDaysAfterFirstLaunch": 2,
     "minLaunchCount": 2
+  },
+  "sudokuPromo": {
+    "show": true,
+    "minLaunchCount": 2,
+    "minDaysAfterFirstLaunch": 1
   }
 }
