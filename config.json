@@ -6,7 +6,8 @@
       {"name": "Мировой", "url": "https://iptv-org.github.io/iptv/index.m3u"}
     ],
     "en": [
-
+      {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
+      {"name": "Worldwide", "url": "https://iptv-org.github.io/iptv/index.m3u"}
     ],
     "de": [
     
@@ -24,7 +25,7 @@
   "ads": {
     "adsCount": 2,
     "adsTimeOut": 7200000,
-    "switchChannelCount": 4
+    "switchChannelCount": 3
   },
   "rustor": {
     "show": false,
