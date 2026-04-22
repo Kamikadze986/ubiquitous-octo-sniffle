@@ -53,6 +53,8 @@ https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 group-title="Без категории",Байкал Универ ТВ
 https://stream01.bgu.ru/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Без категории",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Без категории",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Без категории",БСТ
@@ -166,6 +168,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 group-title="Без категории",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Без категории",Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="Telplus.ru@SD" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="Без категории",Телплюс ТВ (Астрахань) (360p) [Not 24/7]
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="TKR.ru@SD" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="Без категории",ТКР (Рязань) (1080p) [Not 24/7]
@@ -536,8 +540,6 @@ https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=Zr
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="belarus4-gomel" tvg-logo="https://iptvx.one/picons/belarus4-gomel.png" group-title="Местные",Беларусь 4 Гомель
 http://46.56.85.151:8080/0.m3u8
-#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Местные",Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Местные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 tvg-id="bst-bratsk" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" group-title="Местные",БСТ Братск
@@ -592,6 +594,8 @@ http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 tvg-id="lot-47" tvg-logo="https://iptvx.one/picons/lot-47.png" group-title="Местные",Лен ТВ 24
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 tvg-id="lipeck24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="Местные",Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
 #EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="Местные",Липецкое время
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="Местные",Луганск 24
@@ -1250,8 +1254,6 @@ http://193.25.8.59:8000/drive
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Хобби и увлечения",Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Хобби и увлечения",Наша Тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 tvg-id="oruzhie" tvg-logo="https://iptvx.one/picons/oruzhie.png" group-title="Хобби и увлечения",Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Хобби и увлечения",Охота и рыбалка
@@ -1270,10 +1272,10 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_h
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Христианские",Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="supertennis",SuperTennis HD
-http://tv.woobl.ru:9090/channel/n6263ad12/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Матч! запасной 1
 http://tv.woobl.ru:9091/channel/n509abd25/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
+#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="xokkejny",Хоккей ТВ HD
+http://tv.woobl.ru:9090/channel/n1125e8c6/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="🎵 Музыка" tvg-id="1hd",1HD Music Television HD
 http://tv.woobl.ru/1hd/video.m3u8?token=test344
 #EXTINF:-1 group-title="🎵 Музыка",Bridge TV Classic
@@ -1316,24 +1318,14 @@ http://tv.woobl.ru/zhara_hd/video.m3u8?token=test344
 http://tv.woobl.ru/o2_hd/video.m3u8?token=test344
 #EXTINF:-1 group-title="👶 Детские",Ani
 http://tv.woobl.ru:9090/channel/n52f93b0/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="👶 Детские" tvg-id="cartoon-network" tvg-name="Cartoon Network",Cartoon Network запасной 1
-http://tv.woobl.ru:9090/channel/2ab703d0/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="👶 Детские" tvg-id="boomerang" tvg-name="Cartoonito" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Cartoonito
-http://tv.woobl.ru:9090/channel/748c7d82/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="👶 Детские" tvg-id="da-vinci",Da Vinci запасной 1
-http://tv.woobl.ru:9090/channel/3470679a/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="👶 Детские" tvg-id="nick-toons" tvg-name="Nicktoons",Nicktoons HD
-http://tv.woobl.ru:9090/channel/5af4cf2/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
+#EXTINF:-1 group-title="👶 Детские" tvg-id="nickelodeon-ru" tvg-name="Nickelodeon СНГ",Nickelodeon запасной 1
+http://tv.woobl.ru:9090/channel/n47dbeb87/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="👶 Детские" tvg-id="o_",О!
 http://tv.woobl.ru:9090/channel/n18f08d51/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="👶 Детские" tvg-id="skazki-zayki" tvg-name="Сказки Зайки",Сказки Зайки
 http://tv.woobl.ru:9090/channel/120409a7/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="👶 Детские" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Уникум
 http://tv.woobl.ru:9090/channel/5c14ab41/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="👶 Детские" tvg-id="chizhik",Чижик HD
-http://tv.woobl.ru:9090/channel/3d030e81/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="📰 Новости" tvg-id="cgtn",CGTN HD [EN]
-http://tv.woobl.ru:9090/channel/n1e7e35b7/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="📰 Новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png",Fox News
 http://tv.woobl.ru:9090/channel/267dd181/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="📰 Новости" tvg-id="dozhd" tvg-name="Дождь",Дождь (СМИ-иноагент)
@@ -1384,9 +1376,3 @@ http://tv.woobl.ru:9091/channel/6c326298/index.m3u8?q=80782353aa99c13920c93f6bb6
 http://tv.woobl.ru:9091/channel/n7d4f7eb5/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="tnt" tvg-name="ТНТ HD",ТНТ HD запасной 1
 http://tv.woobl.ru:9091/channel/71fae85c/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="h2" tvg-name="H2 HD",H2 HD
-http://tv.woobl.ru:9090/channel/nd616c3e/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="hgtv" tvg-name="HGTV HD",HGTV HD
-http://tv.woobl.ru:9090/channel/1192191f/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
-#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="bobior",Бобёр
-http://tv.woobl.ru:9090/channel/n401565d9/index.m3u8?q=80782353aa99c13920c93f6bb61f7e6a
