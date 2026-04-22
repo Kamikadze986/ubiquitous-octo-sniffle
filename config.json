@@ -3,7 +3,7 @@
   "suggestedPlaylists": {
     "ru": [
       {"name": "Российские каналы", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
-      {"name": "Мировой", "url": "https://iptv-org.github.io/iptv/index.m3u"}
+      {"name": "Мировой", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/world_playlist.m3u"}
     ],
     "en": [
       {"name": "Russian channels", "url": "https://raw.githubusercontent.com/Kamikadze986/ubiquitous-octo-sniffle/main/playlist.m3u"},
