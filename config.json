@@ -24,7 +24,7 @@
   },
   "ads": {
     "adsCount": 2,
-    "adsTimeOut": 7200000,
+    "adsTimeOut": 3600000,
     "switchChannelCount": 3
   },
   "rustor": {
