@@ -36,5 +36,9 @@
     "show": true,
     "minLaunchCount": 2,
     "minDaysAfterFirstLaunch": 1
+  },
+  "updater": {
+    "lastVersionCode": 13,
+    "needUpdate": true
   }
 }
