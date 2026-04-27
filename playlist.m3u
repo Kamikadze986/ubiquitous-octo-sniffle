@@ -3,6 +3,8 @@
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AutoPlus.ru@SD" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="Авто",Авто Плюс (576p)
 http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenAutoGid.ru@HD" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Авто",Сити Эдем АвтоГид [Not 24/7]
+https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Активный отдых",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="Активный отдых",Моя Планета (720p)
@@ -33,10 +35,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Без категории",TV ГУБЕРНИЯ
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UniverTV.ru@SD" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="Без категории",Univer TV (1080p)
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1 group-title="Без категории",Univer TV HD
-https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="Без категории",Zoopark (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Без категории",Аист ТВ
@@ -53,8 +51,6 @@ https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 group-title="Без категории",Байкал Универ ТВ
 https://stream01.bgu.ru/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Без категории",Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Без категории",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="Без категории",БСТ
@@ -280,6 +276,8 @@ http://31.148.48.15/Istoriya/index.m3u8
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="Документальные",НАУКА (1080p)
 http://31.148.48.15/Nauka_2.0/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Документальные;Сериалы",Сити Эдем КиноДок [Not 24/7]
+https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Информационные",360° Новости (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews
@@ -348,6 +346,8 @@ http://31.148.48.15/Kino_TV_HD/index.m3u8
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="KinoSat.ru@SD" tvg-logo="https://i.imgur.com/7KsNvBz.png" group-title="Кино",КИНОСАТ (576p)
 http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 tvg-id="NovyiRusskii.ru@HD" tvg-logo="https://i.imgur.com/iuRSScH.png" group-title="Кино",Новый Русский (720p)
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Кино",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Кино",Родное Кино (576p)
@@ -360,6 +360,22 @@ http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 http://31.148.48.15/Russkiy_illusion/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Кино",Русский Роман (1080p)
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru@HD" tvg-logo="https://i.imgur.com/gaket4B.png" group-title="Кино",Сити Эдем КиноАзия [Not 24/7]
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoArt.ru@HD" tvg-logo="https://i.imgur.com/67CWCtz.png" group-title="Кино",Сити Эдем КиноАрт [Not 24/7]
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru@HD" tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Кино",Сити Эдем КиноДетектив [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru@HD" tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Кино",Сити Эдем КиноКлассика [Not 24/7]
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru@HD" tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Кино",Сити Эдем КиноКомедия [Not 24/7]
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD" tvg-logo="https://i.imgur.com/s1Pid0K.png" group-title="Кино",Сити Эдем КиноМистика [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru@HD" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="Кино",Сити Эдем КиноФантастика [Not 24/7]
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenKinoAction.ru@HD" tvg-logo="https://i.imgur.com/uuzuvD0.png" group-title="Кино",Сити Эдем КиноЭкшен [Not 24/7]
+https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru@SD" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Кино",Феникс плюс Кино (576p)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кино Online",Alpha Cinema
@@ -370,6 +386,14 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Кино Online",Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-logo="https://iptvx.one/picons/cityedem-kinoazia.png" group-title="Кино Online",Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-logo="https://iptvx.one/picons/cityedem-kinoklas.png" group-title="Кино Online",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinomist" tvg-logo="https://iptvx.one/picons/cityedem-kinomist.png" group-title="Кино Online",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoact" tvg-logo="https://iptvx.one/picons/cityedem-kinoact.png" group-title="Кино Online",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кино Online",Смотрим (Кино и сериалы)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кино и сериалы",.black
@@ -512,6 +536,8 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZrXipYUZHniVrAVSwMJWhQ&e=2070623501&scheme=https
 #EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="Местные",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="belgorod24" tvg-logo="https://iptvx.one/picons/belgorod24.png" group-title="Местные",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Местные",Брянская губерния HD
 https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:-1 tvg-id="bst-bratsk" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" group-title="Местные",БСТ Братск
@@ -739,8 +765,6 @@ http://5.188.159.128:8070/rutv/index.m3u8
 http://31.148.48.15/RU_TV/index.m3u8
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Музыкальные",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://iptvx.one/picons/viva-rus.png" group-title="Музыкальные",VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Музыкальные",VIVA Russia (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 tvg-id="vostok-tv" tvg-logo="https://iptvx.one/picons/vostok-tv.png" group-title="Музыкальные",Восток ТВ
@@ -758,8 +782,12 @@ http://185.71.81.6:8080/20/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Музыкальные" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Муз ТВ (450p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Музыкальные",Музыка 1 International [Not 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="Музыкальные",Музыка Live (576p)
 http://31.148.48.15/La-Minor_TV/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Музыкальные",Музыка Кино International [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Музыкальные",Музыка Первого (1080p)
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 tvg-id="o2tv.ru@SD" tvg-logo="https://i.imgur.com/CM6z7fA.png" group-title="Музыкальные",о2тв (720p)
@@ -774,6 +802,10 @@ http://lova.me/hls/hithd.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru@SD" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Музыкальные",Радио Шансон (720p) [Not 24/7]
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="CityEdenMeditationMusic.ru@HD" tvg-logo="https://i.imgur.com/HPWevWb.png" group-title="Музыкальные",Сити Эдем Meditation Music [Not 24/7]
+https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru@HD" tvg-logo="https://i.imgur.com/l7BE8l6.png" group-title="Музыкальные",Сити Эдем Классическая Музыка [Not 24/7]
+https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Музыкальные",Страна FM (720p) [Not 24/7]
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыкальные",Страна FM HD
@@ -784,8 +816,6 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClass.ru@SD" tvg-logo="https://i.imgur.com/gst7wW7.png" group-title="Образовательные",English Class HD (1080p)
 http://31.148.48.15/English_club_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="Образовательные",UNIVER
-https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Образовательные",Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Образовательные",Живая Планета
@@ -866,8 +896,6 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="Vostok24.ru@SD" tvg-logo="https://i.imgur.com/YEXDsMn.png" group-title="Общие",Восток 24 (Владивосток) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Общие",Губерния (Самара) (576p)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurasia.ru@SD" tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="Общие",Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru@SD" tvg-logo="https://i.imgur.com/57deE7f.png" group-title="Общие",Енисей (1080p) [Not 24/7]
@@ -962,6 +990,8 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru@SD" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="Общие;Информационные",Сочи 24 HD (720p)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CityEdenTV.ru@HD" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="Общие;Религиозные",Сити Эдем ТВ Христианский [Not 24/7]
+https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="Познавательные",Discovery HD
@@ -1116,6 +1146,10 @@ https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_MAMONT/variant.m3u8
 #EXTINF:-1 tvg-id="metr" tvg-logo="https://iptvx.one/picons/metr.png" group-title="Развлекательные (Местные)",МЭТР
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 tvg-id="sreda" tvg-logo="https://iptvx.one/picons/sreda.png" group-title="Развлекательные (Местные)",Среда
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
+#EXTINF:-1 tvg-id="sreda" tvg-logo="https://iptvx.one/picons/sreda.png" group-title="Развлекательные (Местные)",Среда (Каспийск)
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=-O-Abonlwf-bYzT5hrypYg&e=2070623505&scheme=https
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="Развлекательные (Местные)",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="tolk" tvg-logo="https://iptvx.one/picons/tolk.png" group-title="Развлекательные (Местные)",Толк запасной 1
@@ -1145,6 +1179,8 @@ http://31.148.48.15/A2/index.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="Saphire.ru@SD" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="Сериалы",Сапфир (720p)
 http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Сериалы",Сити Эдем ТелеНовелла [Not 24/7]
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Сериалы",Смотрим Честный Детектив (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png" group-title="Спортивные",Astrakhan.RU SPORT
@@ -1232,8 +1268,14 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_h
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Христианские",Спас
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="supertennis",SuperTennis HD
+http://tv.woobl.ru:9090/channel/n6263ad12/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/367px-Tennis_Channel_logo.svg.png",Tennis Channel HD [EN] [США]
+http://tv.woobl.ru:9090/channel/7d307ef4/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Матч! запасной 1
 http://tv.woobl.ru:9091/channel/n509abd25/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="sportivny",ТВ Спорт HD
+http://tv.woobl.ru:9090/channel/c03c9c1/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🎵 Музыка" tvg-id="1hd",1HD Music Television HD
 http://tv.woobl.ru/1hd/video.m3u8?token=test3445
 #EXTINF:-1 group-title="🎵 Музыка",Bridge TV Classic
@@ -1250,6 +1292,8 @@ http://tv.woobl.ru/bridge_hits_hd/video.m3u8?token=test3445
 http://tv.woobl.ru/bridge_rock_hd/video.m3u8?token=test3445
 #EXTINF:-1 group-title="🎵 Музыка" tvg-id="bridge-tv-ruxit" tvg-name="Bridge TV Русский хит",Bridge TV Русский хит
 http://tv.woobl.ru/bridge_russkiy_hit/video.m3u8?token=test3445
+#EXTINF:-1 group-title="🎵 Музыка" tvg-id="bridge-tv-ruxit",Bridge TV Русский хит HD
+http://tv.woobl.ru/bridge_russkiy_hit_hd/video.m3u8?token=test3445
 #EXTINF:-1 group-title="🎵 Музыка" tvg-id="bridge-tv-fresh",Bridge TV Фрэш HD
 http://tv.woobl.ru/bridge_tv_fresh_hd/video.m3u8?token=test3445
 #EXTINF:-1 group-title="🎵 Музыка",Bridge TV Шлягер
@@ -1270,12 +1314,98 @@ http://tv.woobl.ru/zhara/video.m3u8?token=test3445
 http://tv.woobl.ru/zhara_hd/video.m3u8?token=test3445
 #EXTINF:-1 group-title="🎵 Музыка" tvg-id="o2tv",О! 2 ТВ HD
 http://tv.woobl.ru/o2_hd/video.m3u8?token=test3445
+#EXTINF:-1 group-title="🏄 Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",2x2 запасной 2
+http://tv.woobl.ru:9090/channel/n7d5ebb90/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="7tv" tvg-name="7ТВ",7 ТВ
+http://tv.woobl.ru:9090/channel/n52fbc73/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные",Liberty South Park HD
+http://tv.woobl.ru:9090/channel/5d145aff/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="tv-rus",TV RUS HD
+http://tv.woobl.ru:9090/channel/n4733e066/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="tv-rus-plus",TV RUS+ HD
+http://tv.woobl.ru:9090/channel/n49cb0bd1/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Анекдот ТВ
+http://tv.woobl.ru:9090/channel/2eb82d56/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="narod-vsio-vidit",Народ Всё Видит
+http://tv.woobl.ru:9090/channel/n18f02caa/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="perec-int",Перец International
+http://tv.woobl.ru:9090/channel/n4d7e4323/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные",Пес и Ко
+http://tv.woobl.ru:9090/channel/n5f1fe5b8/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="sts-love" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",СТС Love запасной 1
+http://tv.woobl.ru:9090/channel/n12bc1bf2/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="super" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Суббота!
+http://tv.woobl.ru:9090/channel/n67668354/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТНТ4 запасной 2
+http://tv.woobl.ru:9090/channel/n2ca057b7/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="tochka-tv" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Точка ТВ
+http://tv.woobl.ru:9090/channel/n6fe2ed45/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Че! запасной 2
+http://tv.woobl.ru:9090/channel/n3dd94596/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🏄 Развлекательные" tvg-id="yu" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Ю
+http://tv.woobl.ru:9090/channel/na40d0ce/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские",Ani
+http://tv.woobl.ru:9090/channel/n52f93b0/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="cartoon-network" tvg-name="Cartoon Network",Cartoon Network запасной 1
+http://tv.woobl.ru:9090/channel/2ab703d0/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="boomerang" tvg-name="Cartoonito" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Cartoonito
+http://tv.woobl.ru:9090/channel/748c7d82/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="da-vinci",Da Vinci запасной 1
+http://tv.woobl.ru:9090/channel/3470679a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="jimjam",Jim Jam
+http://tv.woobl.ru:9090/channel/n230655a8/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="nickelodeon-ru" tvg-name="Nickelodeon СНГ",Nickelodeon запасной 1
+http://tv.woobl.ru:9090/channel/n47dbeb87/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="nick-toons" tvg-name="Nicktoons",Nicktoons HD
+http://tv.woobl.ru:9090/channel/5af4cf2/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="detkinoint-tviksel" tvg-name="Детское кино International",Детское кино International
+http://tv.woobl.ru:9090/channel/n67b6d1b6/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="o_",О!
+http://tv.woobl.ru:9090/channel/n18f08d51/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские",Рыжий запасной 1
+http://tv.woobl.ru:9090/channel/n3f3c0cc0/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="skazki-zayki" tvg-name="Сказки Зайки",Сказки Зайки
+http://tv.woobl.ru:9090/channel/120409a7/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="tiptop" tvg-name="ТипТоп",ТипТоп HD
+http://tv.woobl.ru:9090/channel/1e009d69/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="no_epg" tvg-logo="https://img.catcast.tv/uploads/28042024/logos/46775-662e075a0f6a2.png",Том и Джерри
+http://tv.woobl.ru:9090/channel/n332cfce7/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Уникум
+http://tv.woobl.ru:9090/channel/5c14ab41/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="👶 Детские" tvg-id="chizhik",Чижик HD
+http://tv.woobl.ru:9090/channel/3d030e81/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📰 Новости" tvg-id="cgtn",CGTN HD [EN]
+http://tv.woobl.ru:9090/channel/n1e7e35b7/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📰 Новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png",Fox News
+http://tv.woobl.ru:9090/channel/267dd181/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📰 Новости" tvg-id="dozhd" tvg-name="Дождь",Дождь (СМИ-иноагент)
+http://tv.woobl.ru:9090/channel/n34a0f23e/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📰 Новости" tvg-id="solovjinypomiot" tvg-name="Соловьев.Live",Соловьев Live HD
+http://tv.woobl.ru:9090/channel/n4019ce23/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="timeless-dizi",Timeless Dizi Channel
+http://tv.woobl.ru:9090/channel/5f3e6a80/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World",Viasat Kino World HD CEE
+http://tv.woobl.ru:9090/channel/3cae0a4c/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="kino1int-tviksel",Кино 1 International
+http://tv.woobl.ru:9090/channel/n22a64ac3/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="kino2-tviksel",Кино 2 HD
+http://tv.woobl.ru:9090/channel/n7ad722ea/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="ntv-pravo",НТВ Право
+http://tv.woobl.ru:9090/channel/n62626721/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино",НТВ Сериал
+http://tv.woobl.ru:9090/channel/18eb90b3/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="ntv-xit",НТВ Хит
+http://tv.woobl.ru:9090/channel/78d6b0f3/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="📺 Кино" tvg-id="no_epg",Фантастика HD
+http://tv.woobl.ru:9090/channel/36d4f402/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Домашний запасной 1
 http://tv.woobl.ru:9091/channel/n26cc2830/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Звезда
 http://tv.woobl.ru:9091/channel/68919195/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Карусель запасной 2
 http://tv.woobl.ru:9091/channel/6bbf7c5a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="karusel",Карусель HD
+http://tv.woobl.ru:9090/channel/n46da30ee/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Мир запасной 2
 http://tv.woobl.ru:9091/channel/n7d4f91d8/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",НТВ
@@ -1284,6 +1414,8 @@ http://tv.woobl.ru:9091/channel/n7d4f90ef/index.m3u8?q=054a8d5e360233783eb42f691
 http://tv.woobl.ru:9091/channel/9cbd3c0/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ОТР запасной 2
 http://tv.woobl.ru:9091/channel/n7d4f8d20/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="pervy" tvg-name="Первый канал" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Первый канал
+http://tv.woobl.ru:9090/channel/64e387a4/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятница
 http://tv.woobl.ru:9091/channel/n7cf6f945/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="5kanal-ru" tvg-name="Пятый канал" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятый канал запасной 2
@@ -1292,12 +1424,16 @@ http://tv.woobl.ru:9091/channel/6e1e4f6/index.m3u8?q=054a8d5e360233783eb42f69127
 http://tv.woobl.ru:9091/channel/763a4004/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="rossia1" tvg-name="Россия 1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1
 http://tv.woobl.ru:9091/channel/n3ecdc85e/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="rossia-24" tvg-name="Россия 24" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Россия 24
+http://tv.woobl.ru:9090/channel/6514bcf1/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия К
 http://tv.woobl.ru:9091/channel/n3ecdc475/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Спас запасной 1
 http://tv.woobl.ru:9091/channel/n2ca046b5/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",СТС запасной 2
 http://tv.woobl.ru:9091/channel/n7d4f81dc/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="sts-int" tvg-name="СТС International",СТС International
+http://tv.woobl.ru:9090/channel/n748f5f9d/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВ3 запасной 1
 http://tv.woobl.ru:9091/channel/n7d4f83f9/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВЦ запасной 1
@@ -1306,3 +1442,27 @@ http://tv.woobl.ru:9091/channel/6c326298/index.m3u8?q=054a8d5e360233783eb42f6912
 http://tv.woobl.ru:9091/channel/n7d4f7eb5/index.m3u8?q=054a8d5e360233783eb42f6912745209
 #EXTINF:-1 group-title="🔅 Основные" tvg-id="tnt" tvg-name="ТНТ HD",ТНТ HD запасной 1
 http://tv.woobl.ru:9091/channel/71fae85c/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="docubox-hd" tvg-name="DocuBox HD",Docubox HD
+http://tv.woobl.ru:9090/channel/n72e2f106/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="h2" tvg-name="H2 HD",H2 HD
+http://tv.woobl.ru:9090/channel/nd616c3e/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="hgtv" tvg-name="HGTV HD",HGTV HD
+http://tv.woobl.ru:9090/channel/1192191f/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="ugra-travel" tvg-name="Ugra Travel",Ugra Travel HD (ХМАО-Югра)
+http://tv.woobl.ru:9090/channel/39ee5658/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="bobior",Бобёр
+http://tv.woobl.ru:9090/channel/n401565d9/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="vkus",Вкус
+http://tv.woobl.ru:9090/channel/6107f8b2/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="zhivi-aktivno",Живи Активно
+http://tv.woobl.ru:9090/channel/n5cf3a22a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные",Здоровое ТВ
+http://tv.woobl.ru:9090/channel/n383fd7c6/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="kluch",Ключ
+http://tv.woobl.ru:9090/channel/n1cb006bb/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="ntv-style",НТВ Стиль
+http://tv.woobl.ru:9090/channel/n62453034/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные" tvg-id="pervy-vegetariansky",Первый вегетарианский
+http://tv.woobl.ru:9090/channel/5db82cd1/index.m3u8?q=054a8d5e360233783eb42f6912745209
+#EXTINF:-1 group-title="🔎 Познавательные",Усадьба
+http://tv.woobl.ru:9090/channel/2ce0cdbd/index.m3u8?q=054a8d5e360233783eb42f6912745209
