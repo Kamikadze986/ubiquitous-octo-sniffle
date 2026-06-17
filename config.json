@@ -39,5 +39,15 @@
   "updater": {
     "lastVersionCode": 13,
     "needUpdate": true
+  },
+  "googlePlay": {
+    "show": true,
+    "minDaysAfterFirstLaunch": 2,
+    "minLaunchCount": 2
+  },
+  "recommendFriend": {
+    "show": true,
+    "minDaysAfterFirstLaunch": 2,
+    "minLaunchCount": 2
   }
 }
