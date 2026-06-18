@@ -42,12 +42,12 @@
   },
   "googlePlay": {
     "show": true,
-    "minDaysAfterFirstLaunch": 2,
+    "minDaysAfterFirstLaunch": 4,
     "minLaunchCount": 2
   },
   "recommendFriend": {
     "show": true,
-    "minDaysAfterFirstLaunch": 2,
+    "minDaysAfterFirstLaunch": 8,
     "minLaunchCount": 2
   }
 }
