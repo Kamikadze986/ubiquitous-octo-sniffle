@@ -46,7 +46,7 @@
     "minLaunchCount": 2
   },
   "recommendFriend": {
-    "show": true,
+    "show": false,
     "minDaysAfterFirstLaunch": 8,
     "minLaunchCount": 2
   }
