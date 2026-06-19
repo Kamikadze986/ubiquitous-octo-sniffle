@@ -29,7 +29,8 @@
   "rustor": {
     "show": false,
     "minDaysAfterFirstLaunch": 2,
-    "minLaunchCount": 2
+    "minLaunchCount": 2,
+    "minDaysBetweenShows": 7
   },
   "sudokuPromo": {
     "show": true,
@@ -43,11 +44,13 @@
   "googlePlay": {
     "show": true,
     "minDaysAfterFirstLaunch": 4,
-    "minLaunchCount": 2
+    "minLaunchCount": 2,
+    "minDaysBetweenShows": 7
   },
   "recommendFriend": {
     "show": false,
     "minDaysAfterFirstLaunch": 8,
-    "minLaunchCount": 2
+    "minLaunchCount": 2,
+    "minDaysBetweenShows": 7
   }
 }
