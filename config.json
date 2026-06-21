@@ -42,7 +42,7 @@
     "needUpdate": true
   },
   "googlePlay": {
-    "show": true,
+    "show": false,
     "minDaysAfterFirstLaunch": 4,
     "minLaunchCount": 2,
     "minDaysBetweenShows": 7
