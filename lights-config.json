@@ -1,7 +1,12 @@
 {
+  "schema_version": 1,
+  "revision": 2,
   "game_id": "lights",
   "ads": {
     "rewarded": {
+      "enabled": true
+    },
+    "banner": {
       "enabled": true
     }
   },
