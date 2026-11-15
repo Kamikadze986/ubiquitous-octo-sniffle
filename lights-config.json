@@ -1,20 +1,9 @@
 {
-  "schema_version": 1,
-  "revision": 2,
-  "game_id": "lights",
   "ads": {
-    "rewarded": {
-      "enabled": true
-    },
-    "banner": {
-      "enabled": true
-    }
-  },
-  "hints": {
-    "free_per_level": {
-      "3": 1,
-      "4": 2,
-      "5": 3
-    }
+    "rewarded": true,
+    "banner": true,
+    "free_hints_3x3": 1,
+    "free_hints_4x4": 2,
+    "free_hints_5x5": 3
   }
 }
