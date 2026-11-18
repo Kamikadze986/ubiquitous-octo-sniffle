@@ -1,7 +1,7 @@
 {
   "ads": {
-    "rewarded": false,
-    "banner": false,
+    "rewarded": true,
+    "banner": true,
     "free_hints_3x3": 1,
     "free_hints_4x4": 2,
     "free_hints_5x5": 3
